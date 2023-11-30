@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-calculator-w5.git/static/css/main.b38cf207.css",
-    "main.js": "/react-calculator-w5.git/static/js/main.d0d81622.js",
-    "index.html": "/react-calculator-w5.git/index.html",
-    "main.b38cf207.css.map": "/react-calculator-w5.git/static/css/main.b38cf207.css.map",
-    "main.d0d81622.js.map": "/react-calculator-w5.git/static/js/main.d0d81622.js.map"
+    "main.css": "/react-calculator-w5/static/css/main.b38cf207.css",
+    "main.js": "/react-calculator-w5/static/js/main.d0d81622.js",
+    "index.html": "/react-calculator-w5/index.html",
+    "main.b38cf207.css.map": "/react-calculator-w5/static/css/main.b38cf207.css.map",
+    "main.d0d81622.js.map": "/react-calculator-w5/static/js/main.d0d81622.js.map"
   },
   "entrypoints": [
     "static/css/main.b38cf207.css",
