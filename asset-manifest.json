@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/norasaffar/react-calculator-w5.git/static/css/main.b38cf207.css",
+    "main.js": "/norasaffar/react-calculator-w5.git/static/js/main.d0d81622.js",
+    "index.html": "/norasaffar/react-calculator-w5.git/index.html",
+    "main.b38cf207.css.map": "/norasaffar/react-calculator-w5.git/static/css/main.b38cf207.css.map",
+    "main.d0d81622.js.map": "/norasaffar/react-calculator-w5.git/static/js/main.d0d81622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b38cf207.css",
+    "static/js/main.d0d81622.js"
+  ]
+}
